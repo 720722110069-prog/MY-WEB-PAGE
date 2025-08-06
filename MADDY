@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>En GitHub Webpage</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+    h1 { color: #2c3e50; }
+    p { font-size: 18px; color: #34495e; }
+  </style>
+</head>
+<body>
+  <h1>Vanakkam! Ungal Website GitHub Pages-la irukku.</h1>
+  <p>Indha page GitHub Pages service use panni create pannirukkom.</p>
+</body>
+</html>
